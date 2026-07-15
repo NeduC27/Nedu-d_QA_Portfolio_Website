@@ -74,7 +74,7 @@ const itemVariants = {
 
 function Skill() {
   return (
-    <section className="skills py-24 blueprint-grid min-h-screen">
+    <section className="skills py-24 min-h-screen">
       <div className="container mx-auto px-6 max-w-6xl">
         <motion.div 
           initial={{ opacity: 0, y: -20 }}

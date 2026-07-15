@@ -54,7 +54,7 @@ function ContactMe() {
   };
 
   return (
-    <section className="contact py-20 blueprint-grid min-h-screen flex items-center relative z-0">
+    <section className="contact py-20 min-h-screen flex items-center relative z-0">
       <div className="container mx-auto px-6 max-w-6xl">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           {/* Info Side */}

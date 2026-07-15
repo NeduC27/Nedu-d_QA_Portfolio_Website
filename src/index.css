@@ -48,8 +48,6 @@
   }
   * {
     border-color: var(--border);
-    outline-color: var(--ring);
-    outline-style: solid;
   }
 }
 

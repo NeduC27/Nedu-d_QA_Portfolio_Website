@@ -79,7 +79,7 @@ PageWrapper.propTypes = {
 function App() {
   return (
     <HashRouter>
-      <div className="relative flex flex-col min-h-screen bg-zinc-600 selection:bg-blue-500/30 blueprint-grid">
+      <div className="relative flex flex-col min-h-screen bg-zinc-600 selection:bg-blue-500/30">
         {/* Background layer — fills the whole page, sits behind everything */}
         <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
           <SideRays

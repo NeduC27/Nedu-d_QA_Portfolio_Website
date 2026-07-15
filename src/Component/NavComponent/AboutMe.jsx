@@ -12,7 +12,7 @@ const fadeIn = {
 
 function AboutMe() {
   return (
-    <section className="about-me py-24 blueprint-grid min-h-screen">
+    <section className="about-me py-24 min-h-screen">
       <div className="container mx-auto px-6 max-w-6xl">
         <div className="flex flex-col lg:flex-row items-center gap-16">
           

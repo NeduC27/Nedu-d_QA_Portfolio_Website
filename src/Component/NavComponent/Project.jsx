@@ -24,7 +24,7 @@ const cardVariants = {
 
 function Project() {
   return (
-    <section className="projects px-6 py-20 text-white blueprint-grid min-h-screen">
+    <section className="projects px-6 py-20 text-white min-h-screen">
       <div className="container mx-auto">
         <motion.div
           initial={{ opacity: 0, y: -20 }}

@@ -75,7 +75,7 @@ function Home() {
                     fontSize: { xs: "1.5rem", sm: "2.5rem", md: "3.5rem" },
                   }}
                 >
-                  Softeware Quality Assurance <br />
+                  Software Quality Assurance <br />
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-700 to-indigo-500">
                     Specialist
                   </span>
